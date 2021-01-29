@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resistor Calculator</string>
+    <string name="_33k">0Ω</string>
+    <string name="Welcome">Resistor Calculator</string>
+</resources>
